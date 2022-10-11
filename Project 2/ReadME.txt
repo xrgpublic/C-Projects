@@ -1,1 +1,1 @@
-This is a C compiler I created using Lex and Yacc.  I alsom created grammar for the compiler and there is a word document that has the test cases for examples of the compiler in use.
+This program either finds a solution to an expression or returns whether an expression is true or false(returns 1 for true and 0 for false)
